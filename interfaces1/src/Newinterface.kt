@@ -1,0 +1,4 @@
+interface Newinterface {
+
+    fun newMethod()
+}
